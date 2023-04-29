@@ -8,7 +8,7 @@ body{
     margin: auto;
 }
 .hero{
-    background-image: url(../img/bg-3.jpg);
+    background-image: url(../img/bg.jpg);
     height: 500px;
     background-position: right center;
     background-size: cover;
